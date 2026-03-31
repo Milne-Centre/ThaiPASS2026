@@ -3,13 +3,13 @@ Github repository for ThaiPASS 2026
 
 ## Description of the current folders:
 
-### Pre-tasks
-Pre-tasks to complete before ThaiPASS 2025.
-There are three tasks for you to complete in here. There is also a tutorial folder to help you with basic python skills if you need it. Please note that the tutorial material does not need to be submitted, it is just for practice. 
+### Python Tutorials
+We recommend that you practice your general python skills on the content in this folder to prepare for ThaiPASS 2026. This will not be submitted and marked, this is just for practice. 
 
 For students with little or no Python experience, we recommend that you register and work on any basic Python online courses e.g. on ThaiMOOC.
 
-The exercise will be in the form of an iPython notebook which you can use Anaconda to open (using the Jupyter Notebook application).
+### Pre-ThaiPASS Tasks
+There are some tasks to complete before ThaiPASS 2026. You will be asked to submit your answers on a Google form. Any extra material you may need will be in this folder. 
 
 
 ## How to use GitHub
