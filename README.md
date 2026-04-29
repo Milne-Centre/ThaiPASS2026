@@ -34,7 +34,7 @@ We will now guide you through downloading (known as "cloning") a repository from
 
 - Please click on "Clone a Repository", you will then be presented with the box with different 'tabs' to choose from, select "URL" (see below). 
 
-- Then copy and past this link, https://github.com/Milne-Centre/ThaiPASS2024.git, into the Repository URL Box. You then may choose the location on where the folders and files from the repository are downloaded/cloned to by clicking on the "Choose..." button.
+- Then copy and past this link, https://github.com/Milne-Centre/ThaiPASS2026.git, into the Repository URL Box. You then may choose the location on where the folders and files from the repository are downloaded/cloned to by clicking on the "Choose..." button.
 
 ![alt text](https://github.com/Milne-Centre/ThaiPASS2018/blob/master/ExampleTwo.png "Screenshot of Clone a Repository Box GUI")
 
@@ -44,5 +44,5 @@ We will now guide you through downloading (known as "cloning") a repository from
 
 During the week of the school, we may add new things to this repository. So, we will need to update what we have already downloaded.
 
-- To do this in 'Git Hub Desktop', select "ThaiPASS2025" on the left hand side of the git hub desktop window (see the red arrow in image below), if it is not already selected.
+- To do this in 'Git Hub Desktop', select "ThaiPASS2026" on the left hand side of the git hub desktop window (see the red arrow in image below), if it is not already selected.
 
