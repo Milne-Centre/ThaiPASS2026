@@ -22,6 +22,9 @@ blank.
   - `galaxyKL_eigSpec_*.dat` (×10) — galaxy PCA templates.
   - `table_dr16_qso_krc213.csv` — DR16 quasar catalog (40,878 entries) for the
     optional "try a different AGN" stretch goal.
+    
+## Link to Answer keys (Colab):
+<https://colab.research.google.com/drive/1UHbOzypj2o7UZCs8d8OIOROga2siuWol?usp=sharing>
 
 ## Three ways to run it — pick whichever is easiest
 
