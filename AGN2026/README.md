@@ -1,4 +1,4 @@
-# ThaiPASS 2025 — How Giants Grow
+# ThaiPASS 2026 — How Giants Grow
 
 A short astronomy workbook for high-school students who want to **weigh a real
 supermassive black hole**. Using a single SDSS spectrum of the nearby Seyfert-1
@@ -68,8 +68,8 @@ blank.
 ### Option 3 — Clone the GitHub repo
 
 ```bash
-git clone https://github.com/<your-username>/ThaiPASS2025.git
-cd ThaiPASS2025
+git clone https://github.com/<your-username>/ThaiPASS2026.git
+cd ThaiPASS2026
 pip install numpy scipy matplotlib astropy pandas jupyter
 jupyter notebook agn_spectral_analysis.ipynb
 ```
